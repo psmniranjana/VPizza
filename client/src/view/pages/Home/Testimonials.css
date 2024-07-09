@@ -1,0 +1,38 @@
+.testimonials-container {
+    text-align: center;
+    padding: 25px;
+
+}
+
+.testimonial {
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    /*padding: 20px;*/
+    margin: 20px auto;
+    max-width: 600px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.testimonial p {
+    font-size: 18px;
+    margin-bottom: 10px;
+    color: #444;
+}
+
+.author {
+    font-style: italic;
+    color: #666;
+    margin-top: 10px;
+}
+
+.commentor-photo {
+    position: relative;
+    margin: auto;
+    width: 50px; /* Adjust width as needed */
+    height: 50px; /* Adjust height as needed */
+    border-radius: 100%; /* Make the border a perfect circle */
+}
+
+.stars {
+    color: yellow; /* Set the color of the stars to yellow */
+}
